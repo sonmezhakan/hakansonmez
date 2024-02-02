@@ -1,6 +1,6 @@
 # Hello 👋
 
-Hello, I'm Hakan, a software developer with future-oriented plans and projects in the field of software. Currently, I work as a .Net backend software developer. However, I'm also working on improving myself in the front-end area.
+Hello, I'm Hakan, a software developer with future-oriented plans and projects in the field of software. Currently, I am a .Net backend developer. However, I am also working on improving my skills in the front-end area. Additionally, I am interested in WordPress-based websites and the field of SEO (Search Engine Optimization).
 
 ## 📫 Contact
 
