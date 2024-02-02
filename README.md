@@ -1,12 +1,11 @@
-# Hello
+# Hello 👋
 
 Hello, I'm Hakan, a software developer with future-oriented plans and projects in the field of software. Currently, I work as a .Net backend software developer. However, I'm also working on improving myself in the front-end area.
 
 ## 📫 Contact
 
 You can contact me through the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/hakan-sonmez57/)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/oguzhankomcu1](https://www.linkedin.com/in/hakan-sonmez57/)) 
 - E-mail: hakansonmez2326@gmail.com
 
 # 💻Tech Stack
