@@ -5,7 +5,7 @@ Hello, I'm Hakan, a software developer with future-oriented plans and projects i
 ## 📫 Contact
 
 You can contact me through the following platforms:
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonmezhakan/)) 
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonmezhakan) 
 - E-mail: hakansonmez2326@gmail.com
 
 # 💻Tech Stack
